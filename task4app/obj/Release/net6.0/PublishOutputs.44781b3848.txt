@@ -1,0 +1,7 @@
+C:\Users\muhammadali.khan\source\repos\task4app\task4app\obj\Release\net6.0\PubTmp\Out\task4app.exe
+C:\Users\muhammadali.khan\source\repos\task4app\task4app\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\muhammadali.khan\source\repos\task4app\task4app\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\muhammadali.khan\source\repos\task4app\task4app\obj\Release\net6.0\PubTmp\Out\task4app.dll
+C:\Users\muhammadali.khan\source\repos\task4app\task4app\obj\Release\net6.0\PubTmp\Out\task4app.deps.json
+C:\Users\muhammadali.khan\source\repos\task4app\task4app\obj\Release\net6.0\PubTmp\Out\task4app.runtimeconfig.json
+C:\Users\muhammadali.khan\source\repos\task4app\task4app\obj\Release\net6.0\PubTmp\Out\task4app.pdb
